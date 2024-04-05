@@ -92,7 +92,7 @@
 
 <br/>  
 
-<img align="center" src="https://camo.githubusercontent.com/5e67aae……6865726…" alt="rahulkumar7759" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=anushkaagarwal02&" style="max-width: 100%;">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar7759&" alt="rahulkumar7759" /></p>
 
  
   
@@ -114,4 +114,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
