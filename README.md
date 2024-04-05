@@ -1,10 +1,10 @@
-### <div align="center">I'm Rahul Kumar, a full-time data science 👨‍💻</div>  
+### <div align="center">I'm Rahul Kumar, a full-time data science and Software developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on Integration between Deep Learning and Cryptography   
   
 
-- 🌱 I’m currently learning Data Science and Cloud Computing   
+- 🌱 I’m currently learning Data Science and Software Development   
   
 
 - ❓ Ask me about anything related to Data Science and related technologies  
@@ -33,7 +33,7 @@
 <!-- <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>   -->
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="Pytorch" height="50" /></a>  
 <!-- <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>   -->
 <!-- <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>   -->
