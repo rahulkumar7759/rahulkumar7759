@@ -1,6 +1,6 @@
                    
 
-### <div align="center">I'm Rahul Kumar, a full-time data science and Software developer 👨‍💻</div>  
+### <div align="center">I'm Rahul Kumar, a full-time data science researcher and Software developer 👨‍💻</div>  
   
 
 - 🔭 I’m working on implementing computer vision, and deep learning to resolve waste management problems.
