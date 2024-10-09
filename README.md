@@ -3,10 +3,10 @@
 ### <div align="center">I'm Rahul Kumar, a full-time data science and Software developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Integration between Deep Learning and Cryptography   
+- 🔭 I’m working on implementing computer vision, and deep learning to resolve waste management problems.
   
 
-- 🌱 I’m currently learning Data Science and Software Development   
+- 🌱 My research interests are Machine Learning, Deep Learning, and Computer vision. 
   
 
 - ❓ Ask me about anything related to Data Science and related technologies  
